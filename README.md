@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=00F&center=true&vCenter=true&width=600&lines=Hello%2C+I%27m+Mamedul+Islam.;Freelance+Web+Developer.;jQuery%2C+Node.js+%26+PWA+Enthusiast.;Wordpress+WooCommerce+Expert." alt="MAMEDUL ISLAM">
+  <!--<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=38F&center=true&vCenter=true&width=600&lines=Hello%2C+I%27m+Mamedul+Islam.;Freelance+Web+Developer.;jQuery%2C+Node.js+%26+PWA+Enthusiast.;Wordpress+WooCommerce+Expert." alt="MAMEDUL ISLAM">-->
+  <img src="https://raw.githubusercontent.com/mamedul/mamedul/main/typing.svg" alt="MAMEDUL ISLAM">
 </p>
 
 ### 👋 About Me
@@ -38,17 +39,16 @@ I’m **Mamedul Islam**, a Freelance Web Developer from Bangladesh specializing 
 
 ---
 
-###  GitHub Stats
-
-![Mamedul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamedul&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamedul&layout=compact&theme=dark)
-
----
-
 ###  Connect with Me
 - Portfolio / Live Demos: [mamedul.github.io](https://mamedul.github.io)  
 - Available for freelance projects— [email](mailto:mailofmamedulislam@gmail.com), [whatsapp](https://wa.me/8801847406830)
+
+
+---
+
+###  GitHub Stats
+
+![Mamedul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamedul&show_icons=true&theme=radical&count_private=true) &nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamedul&layout=compact&theme=dark)
 
 ---
 
