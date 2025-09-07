@@ -23,6 +23,7 @@ I’m **Mamedul Islam**, a Freelance Web Developer from Bangladesh specializing 
 | **Scroll-Based Pagination Loader** | **jquery-scrollpaging** multi-directional infinite scroll plugin for jquery. (⭐2) [GitHub](https://github.com/mamedul/jquery-scrollpaging) |
 | **Custom JavaScript DOM Utility Library** | **jdoms** provides interactive DOM manipulation and utility functions in a lightweight package. [GitHub](https://github.com/mamedul/jdoms) |
 | **Node.js Hook System** | **node-hooker** is a powerful, flexible plugin system for Node.js inspired by WordPress actions & filters. [GitHub](https://github.com/mamedul/node-hooker) |
+| **Async Event Pipeline** | **async-event-pipeline** is a Node.js library for building composable, asynchronous event pipelines with ease. [GitHub](https://github.com/mamedul/async-event-pipeline) |
 | **Age Calculator** | **age-calculator** is a simple, accurate tool to calculate age from date of birth—works offline as a PWA. [GitHub](https://github.com/mamedul/age-calculator) |
 | **Love Calculator** | **love-calculator** is a fun, interactive PWA to calculate compatibility—built for engagement and shareability. [GitHub](https://github.com/mamedul/love-calculator) |
 | **Temp Mail PWA** | **temp-mail** is a privacy-focused PWA for generating temporary email addresses—no sign-up required. [GitHub](https://github.com/mamedul/temp-mail) |
