@@ -1,5 +1,7 @@
+# MAMEDUL ISLAM
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=00F&center=true&vCenter=true&width=600&lines=Hello%2C+I%27m+Mamedul+Islam.;Freelance+Web+Developer.;jQuery%2C+Node.js+%26+PWA+Enthusiast.;Wordpress+WooCommerce+Expert." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=00F&center=true&vCenter=true&width=600&lines=Hello%2C+I%27m+Mamedul+Islam.;Freelance+Web+Developer.;jQuery%2C+Node.js+%26+PWA+Enthusiast.;Wordpress+WooCommerce+Expert." alt="MAMEDUL ISLAM">
 </p>
 
 ### 👋 About Me
