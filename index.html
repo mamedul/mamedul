@@ -9,8 +9,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
   <!-- App & Shortcut -->
-  <link rel="icon" href="./favicon.ico" type="image/x-icon">
-  <link rel="apple-touch-icon" href="./apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+  <link rel="manifest" href="./webmanifest.json">
 
   <!-- Docsify Theme -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
@@ -59,7 +61,7 @@
       background-color: #156678 !important;
       background-image: url('https://raw.githubusercontent.com/mamedul/mamedul/main/mamedul-islam-banner.png') !important;
       background-repeat: no-repeat !important;
-      background-repeat: cover !important;
+      background-size: cover !important;
       background-position: center center !important;
       background-attachment: fixed !important;
     }
@@ -73,9 +75,8 @@
       z-index: 1 !important;
       background-color: #fcffb3 !important;
       background-color: linear-gradient(45 deg, #b6ffb3, #fcffb3)  !important;
-      opacity: 0.8;
-      filter: blur(3px) opacity(0.4) !important;
-      -webkit-filter: blur(3px) opacity(0.4) !important;
+      filter: blur(3px) opacity(0.8) !important;
+      -webkit-filter: blur(3px) opacity(0.8) !important;
     }
     section.cover > *{
       z-index: 2;
