@@ -110,9 +110,10 @@ If you are looking for a dedicated and skilled developer to bring your project t
 
 ###  GitHub Stats
 
-<div style="text-align:center;">
-<img src="https://github-readme-stats.vercel.app/api?username=mamedul&show_icons=true&theme=radical&count_private=true" alt="Mamedul's GitHub Stats" style="height:200px;width:auto;object-fit:contain;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamedul&layout=compact&theme=dark" alt="Top Languages" style="height:200px;width:auto;object-fit:contain;">
+<div style="text-align:center;.image-wrapper {
+  display:flex;flex-direction:row;flex-wrap:wrap;gap:16px;">
+<img src="https://github-readme-stats.vercel.app/api?username=mamedul&show_icons=true&theme=radical&count_private=true" alt="Mamedul's GitHub Stats" style="height:128px;width:auto;object-fit:contain;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamedul&layout=compact&theme=dark" alt="Top Languages" style="height:128px;width:auto;object-fit:contain;">
 </div>
 
 ---
