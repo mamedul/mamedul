@@ -30,6 +30,8 @@ I’m **Mamedul Islam**, a Freelance Web Developer from Bangladesh specializing 
 | **Async Event Pipeline** | **async-event-pipeline** is a Node.js library for building composable, asynchronous event pipelines with ease. [GitHub](https://github.com/mamedul/async-event-pipeline) |
 | **Secure Config Manager** | **secure-cm** loads configurations from .env, .yaml, or .json files, automatically encrypts sensitive keys before saving, and decrypts them on load.. [GitHub](https://github.com/mamedul/secure-cm) |
 | **Age Calculator** | **age-calculator** is a simple, accurate tool to calculate age from date of birth—works offline as a PWA. [GitHub](https://github.com/mamedul/age-calculator) |
+| **Chain Schema Validator** | **chain-schema-validator** is a flexible, chainable validation library for complex object schemas in JavaScript. [GitHub](https://github.com/mamedul/chain-schema-validator) |
+| **Object Prop Validator** | **objectpropvalidator** provides lightweight, customizable property validation for JavaScript objects. [GitHub](https://github.com/mamedul/objectpropvalidator) |
 | **Love Calculator** | **love-calculator** is a fun, interactive PWA to calculate compatibility—built for engagement and shareability. [GitHub](https://github.com/mamedul/love-calculator) |
 | **Temp Mail PWA** | **temp-mail** is a privacy-focused PWA for generating temporary email addresses—no sign-up required. [GitHub](https://github.com/mamedul/temp-mail) |
 | **Proxy Checker** | **proxy-checker** is a Node.js tool to validate and filter proxy lists efficiently. [GitHub](https://github.com/mamedul/proxy-checker) |
@@ -43,14 +45,15 @@ I’m **Mamedul Islam**, a Freelance Web Developer from Bangladesh specializing 
 ---
 
 ###  Connect with Me
-* [🌐 Portfolio](https://mamedul.github.io)
-* [📱 WhatsApp](https://wa.me/8801847406830?text=Hi%2C%20do%20you%20have%20time%20to%20develop%20or%20update%20my%20website%3F")
-* [💼 Fiverr Profile](https://www.fiverr.com/mamedul)
-* [👔 LinkedIn](https://www.linkedin.com/in/mamedul/)
-* [💻 GitHub](https://github.com/mamedul)
-* [🐦 X (Twitter)](https://www.x.com/mamedul)
 
----
+<p align="center">
+  <a href="https://mamedul.github.io" title="Portfolio"><img src="https://img.shields.io/badge/Website-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://wa.me/8801847406830?text=Hi%2C%20do%20you%20have%20time%20to%20develop%20or%20update%20my%20website%3F" title="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://www.fiverr.com/mamedul" title="Fiverr"><img src="https://img.shields.io/badge/Fiverr-4DBF43?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+  <a href="https://www.linkedin.com/in/mamedul/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.x.com/mamedul" title="X (Twitter)"><img src="https://img.shields.io/badge/X-4020F0?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
+  <a href="https://github.com/mamedul" title="GitHub"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ###  GitHub Stats
 
