@@ -78,7 +78,7 @@ Expanding beyond the web, I also develop mobile applications to help you reach a
 
 If you are looking for a dedicated and skilled developer to bring your project to life, feel free to reach out. I am available for freelance projects and collaborations.
 
-[Contact Me via WhatsApp](https://www.google.com/search?q=https://wa.me/8801847406830%3Ftext%3DHi%252C%2520I%2527m%2520interested%2520in%2520your%2520web%2520development%2520services. "null") • [View My Portfolio](https://mamedul.github.io "null")
+[Contact Me via WhatsApp](https://wa.me/8801847406830%3Ftext%3DHi%252C%2520I%2527m%2520interested%2520in%2520your%2520web%2520development%2520services. "null") • [View My Portfolio](https://mamedul.github.io "null")
 
 ---
 
